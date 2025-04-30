@@ -108,7 +108,7 @@ python manage.py runserver
 
 ---
 
-## 💌 ติดต่อผู้พัฒนา
+## 📩 ช่องทางการติดต่อ
 
 <div align="center">
 
